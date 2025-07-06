@@ -1,6 +1,4 @@
 # Oasis-Infobyte-Cybersecurity-Internship-Task-List
-# Oasis Infobyte Security Analyst Internship Tasks
-
 This repository contains all 10 tasks completed for the Oasis Infobyte Security Analyst Internship.
 
 ## Completed Tasks:
