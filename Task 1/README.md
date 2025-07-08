@@ -12,10 +12,11 @@ Perform a network scan using **Nmap** to identify open ports, running services, 
 ---
 
 
-## 🎬 Demo
+## 🎬 Demo Video
 
 [![Watch the demo](https://img.youtube.com/vi/GZys-XZ-h64/0.jpg)](https://youtu.be/GZys-XZ-h64)
 
+🔗 [Click here to watch the video on YouTube](https://youtu.be/rcF4lMJzHQ4)
 
 ---
 
