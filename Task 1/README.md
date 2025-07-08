@@ -14,7 +14,6 @@ Perform a network scan using **Nmap** to identify open ports, running services, 
 
 ## 🎬 Demo Video
 
-[![Watch the demo](https://youtu.be/rcF4lMJzHQ4)
 
 🔗 [Click here to watch the video on YouTube](https://youtu.be/rcF4lMJzHQ4)
 
