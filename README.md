@@ -5,7 +5,7 @@ This repository contains all 10 tasks completed for the Oasis Infobyte Security 
 ## Completed Tasks:
 
 1. [Basic Network Scanning with Nmap](https://github.com/evilnishant994/Oasis-Infobyte-Cybersecurity-Internship-Task-List/tree/main/Task%201)
-2. [Basic Firewall Configuration with UFW](https://github.com/Shivansh77074/OIBSIP/tree/main/Task%20-%202)
+2. [Basic Firewall Configuration with UFW]([https://github.com/Shivansh77074/OIBSIP/tree/main/Task%20-%202](https://github.com/evilnishant994/Oasis-Infobyte-Cybersecurity-Internship-Task-List/tree/main/Task%202))
 3. [SQL Injection on DVWA (Low Security)](https://github.com/Shivansh77074/OIBSIP/tree/main/Task%20-%203)
 4. [Report: Common Network Security Threats](https://github.com/Shivansh77074/OIBSIP/tree/main/Task%20-%204)
 5. [Report: Social Engineering Attacks](https://github.com/Shivansh77074/OIBSIP/tree/main/Task%20-%205)
